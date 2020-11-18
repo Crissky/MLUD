@@ -7,3 +7,4 @@
     - [Aula 03 — Normalizando Conjunto de Dados](https://github.com/Crissky/MLUD/tree/main/Aula03)
   - **Modelos**
     - [Aula 04 — Regressão Linear](https://github.com/Crissky/MLUD/tree/main/Aula04)
+    - [Aula 05 — Regressão Linear Múltipla](https://github.com/Crissky/MLUD/tree/main/Aula05)
