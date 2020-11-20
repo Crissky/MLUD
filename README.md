@@ -8,3 +8,4 @@
   - **Modelos**
     - [Aula 04 — Regressão Linear](https://github.com/Crissky/MLUD/tree/main/Aula04)
     - [Aula 05 — Regressão Linear Múltipla](https://github.com/Crissky/MLUD/tree/main/Aula05)
+    - [Aula 06 — Regressão Linear Múltipla com Elimininação Retroativa](https://github.com/Crissky/MLUD/tree/main/Aula06)
