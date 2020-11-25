@@ -10,3 +10,4 @@
     - [Aula 05 — Regressão Linear Múltipla](https://github.com/Crissky/MLUD/tree/main/Aula05)
     - [Aula 06 — Regressão Linear Múltipla com Elimininação Retroativa](https://github.com/Crissky/MLUD/tree/main/Aula06)
     - [Aula 07 — Regressão Polinomial](https://github.com/Crissky/MLUD/tree/main/Aula07)
+    - [Aula 08 — Regressão de Vetor Suporte](https://github.com/Crissky/MLUD/tree/main/Aula08)
