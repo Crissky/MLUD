@@ -2,13 +2,14 @@
 
 ## Índice das Aulas
   - **Pré-processamento de dados**
-    - [Aula 01 — Como preeencher informações que estão faltando em uma base de dados](https://github.com/Crissky/MLUD/tree/main/Aula01)
-    - [Aula 02 — Variáveis Categóricas e Separação em Teste e Treino](https://github.com/Crissky/MLUD/tree/main/Aula02)
-    - [Aula 03 — Normalizando Conjunto de Dados](https://github.com/Crissky/MLUD/tree/main/Aula03)
+    - [Aula 01 — Como preeencher informações que estão faltando em uma base de dados](https://github.com/Crissky/MLUD/blob/main/Aula01/dados_perdidos.ipynb)
+    - [Aula 02 — Variáveis Categóricas e Separação em Teste e Treino](https://github.com/Crissky/MLUD/blob/main/Aula02/variaveis_categoricas_separacao_teste_treino.ipynb)
+    - [Aula 03 — Normalizando Conjunto de Dados](https://github.com/Crissky/MLUD/blob/main/Aula03/normalizando_dataset.ipynb)
   - **Modelos**
-    - [Aula 04 — Regressão Linear](https://github.com/Crissky/MLUD/tree/main/Aula04)
-    - [Aula 05 — Regressão Linear Múltipla](https://github.com/Crissky/MLUD/tree/main/Aula05)
-    - [Aula 06 — Regressão Linear Múltipla com Elimininação Retroativa](https://github.com/Crissky/MLUD/tree/main/Aula06)
-    - [Aula 07 — Regressão Polinomial](https://github.com/Crissky/MLUD/tree/main/Aula07)
-    - [Aula 08 — Regressão de Vetor Suporte](https://github.com/Crissky/MLUD/tree/main/Aula08)
-    - [Aula 09 — Regressão com Árvore de Decisão](https://github.com/Crissky/MLUD/tree/main/Aula09)
+    - [Aula 04 — Regressão Linear](https://github.com/Crissky/MLUD/blob/main/Aula04/regressao_linear.ipynb)
+    - [Aula 05 — Regressão Linear Múltipla](https://github.com/Crissky/MLUD/blob/main/Aula05/regressao_linear_multipla.ipynb)
+    - [Aula 06 — Regressão Linear Múltipla com Elimininação Retroativa](https://github.com/Crissky/MLUD/blob/main/Aula06/regressao_linear_multipla_2.ipynb)
+    - [Aula 07 — Regressão Polinomial](https://github.com/Crissky/MLUD/blob/main/Aula07/regressao_polinomial.ipynb)
+    - [Aula 08 — Regressão de Vetor Suporte](https://github.com/Crissky/MLUD/blob/main/Aula08/regressao_vetor_suporte.ipynb)
+    - [Aula 09 — Regressão com Árvore de Decisão](https://github.com/Crissky/MLUD/blob/main/Aula09/regressao_arvore_decisao.ipynb)
+    - [Aula 10 — Regressão de Floresta Aleatória](https://github.com/Crissky/MLUD/blob/main/Aula10/regressao_floresta_aleatoria.ipynb)
