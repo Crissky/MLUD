@@ -13,3 +13,4 @@
     - [Aula 08 — Regressão de Vetor Suporte](https://github.com/Crissky/MLUD/blob/main/Aula08/regressao_vetor_suporte.ipynb)
     - [Aula 09 — Regressão com Árvore de Decisão](https://github.com/Crissky/MLUD/blob/main/Aula09/regressao_arvore_decisao.ipynb)
     - [Aula 10 — Regressão de Floresta Aleatória](https://github.com/Crissky/MLUD/blob/main/Aula10/regressao_floresta_aleatoria.ipynb)
+    - [Aula 11 — Testando os Modelos de Regressão com R²](https://github.com/Crissky/MLUD/blob/main/Aula11/testando_modelos.ipynb)
