@@ -16,5 +16,6 @@
     - [Aula 11 — Testando os Modelos de Regressão com R²](https://github.com/Crissky/MLUD/blob/main/Aula11/testando_modelos.ipynb)
   - **Modelos de Classificação**
     - [Aula 12 — Regressão Logística](https://github.com/Crissky/MLUD/blob/main/Aula12/regressao_logistica.ipynb)
+    - [Aula 13 — K-NN](https://github.com/Crissky/MLUD/blob/main/Aula13/KNN.ipynb)
   - **Aulas Extras**
     - [Aula Extra 01 — Introdução ao Pandas](https://github.com/Crissky/MLUD/blob/main/AulaEX01/Pandas_Introducao.ipynb)
