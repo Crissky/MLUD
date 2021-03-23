@@ -16,7 +16,7 @@
     - [Aula 11 — Testando os Modelos de Regressão com R²](https://github.com/Crissky/MLUD/blob/main/Aula11/testando_modelos.ipynb)
   - **Modelos de Classificação**
     - [Aula 12 — Regressão Logística](https://github.com/Crissky/MLUD/blob/main/Aula12/regressao_logistica.ipynb)
-    - [Aula 13 — K-NN (K-Nearest Neighbors – K-Vizinhos Mais Próximos)](https://github.com/Crissky/MLUD/blob/main/Aula13/K-NN(K-Nearest_Neighbors).ipynb)
+    - [Aula 13 — K-NN (K-Nearest Neighbors – K-Vizinhos Mais Próximos)](https://github.com/Crissky/MLUD/blob/main/Aula13/K_NN(K_Nearest_Neighbors).ipynb)
     - [Aula 14 — SVM (Support Vector Machine – Máquina de Vetores de Suporte)](https://github.com/Crissky/MLUD/blob/main/Aula14/SVM_(Support_Vector_Machine).ipynb)
   - **Aulas Extras**
     - [Aula Extra 01 — Introdução ao Pandas](https://github.com/Crissky/MLUD/blob/main/AulaEX01/Pandas_Introducao.ipynb)
