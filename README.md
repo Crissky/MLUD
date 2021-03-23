@@ -17,6 +17,6 @@
   - **Modelos de Classificação**
     - [Aula 12 — Regressão Logística](https://github.com/Crissky/MLUD/blob/main/Aula12/regressao_logistica.ipynb)
     - [Aula 13 — K-NN (K-Nearest Neighbors – K-Vizinhos Mais Próximos)](https://github.com/Crissky/MLUD/blob/main/Aula13/K-NN(K-Nearest_Neighbors).ipynb)
-    - [Aula 14 — SVM (Support Vector Machine - Máquina de Vetores de Suporte)](https://github.com/Crissky/MLUD/blob/main/Aula14/SVM_(Support_Vector_Machine).ipynb)
+    - [Aula 14 — SVM (Support Vector Machine – Máquina de Vetores de Suporte)](https://github.com/Crissky/MLUD/blob/main/Aula14/SVM_(Support_Vector_Machine).ipynb)
   - **Aulas Extras**
     - [Aula Extra 01 — Introdução ao Pandas](https://github.com/Crissky/MLUD/blob/main/AulaEX01/Pandas_Introducao.ipynb)
