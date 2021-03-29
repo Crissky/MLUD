@@ -20,5 +20,6 @@
     - [Aula 14 — SVM (Support Vector Machine – Máquina de Vetores de Suporte)](https://github.com/Crissky/MLUD/blob/main/Aula14/SVM_(Support_Vector_Machine).ipynb)
     - [Aula 15 — SVM com Kernel Gaussiano](https://github.com/Crissky/MLUD/blob/main/Aula15/SVM(Support_Vector_Machine)Guassian_Kernel.ipynb)
     - [Aula 16 — Naive Bayes](https://github.com/Crissky/MLUD/blob/main/Aula16/Naive_Bayes.ipynb)
+    - [Aula 17 — Decision Tree](https://github.com/Crissky/MLUD/blob/main/Aula17/Arvore_Decisao.ipynb)
   - **Aulas Extras**
     - [Aula Extra 01 — Introdução ao Pandas](https://github.com/Crissky/MLUD/blob/main/AulaEX01/Pandas_Introducao.ipynb)
