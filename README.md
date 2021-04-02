@@ -22,5 +22,7 @@
     - [Aula 16 — Naive Bayes](https://github.com/Crissky/MLUD/blob/main/Aula16/Naive_Bayes.ipynb)
     - [Aula 17 — Decision Tree](https://github.com/Crissky/MLUD/blob/main/Aula17/Arvore_Decisao.ipynb)
     - [Aula 18 — Random Forest](https://github.com/Crissky/MLUD/blob/main/Aula19/Random_Forest.ipynb)
+  - **Métricas**
+    - [Aula 20 — Curvas ROC](https://github.com/Crissky/MLUD/blob/main/Aula20/Curvas_ROC.ipynb)
   - **Aulas Extras**
     - [Aula Extra 01 — Introdução ao Pandas](https://github.com/Crissky/MLUD/blob/main/AulaEX01/Pandas_Introducao.ipynb)
