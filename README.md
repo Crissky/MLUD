@@ -24,5 +24,7 @@
     - [Aula 18 — Random Forest](https://github.com/Crissky/MLUD/blob/main/Aula19/Random_Forest.ipynb)
   - **Métricas**
     - [Aula 20 — Curvas ROC](https://github.com/Crissky/MLUD/blob/main/Aula20/Curvas_ROC.ipynb)
+  - **Clusterização (Agrupamento)**
+    - [Aula 21 — KMeans e KMeans++ (Parte 1)](https://github.com/Crissky/MLUD/blob/main/Aula21/Exemplo_KMeans%2B%2B.ipynb)
   - **Aulas Extras**
     - [Aula Extra 01 — Introdução ao Pandas](https://github.com/Crissky/MLUD/blob/main/AulaEX01/Pandas_Introducao.ipynb)
